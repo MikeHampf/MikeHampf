@@ -2,8 +2,8 @@
   - I’m interested in switching jobs and industries.
   - I’m currently learning full stack development at Code Platoon.
   - I’m looking to collaborate on nothing at the moment.
-    <img src="relative/..." width="100px" />
 
+Here's a link to view some of my microphone builds:
 https://drive.google.com/file/d/1BaiPPuIYEyAXLHoYKSpW5qkcAQmWNlN5/view?usp=drive_link
 
 - Observations:  Some things are also other things:
