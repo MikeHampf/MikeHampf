@@ -2,7 +2,7 @@
   - I’m interested in switching jobs and industries.
   - I’m currently learning full stack development at Code Platoon.
   - I’m looking to collaborate on nothing at the moment.
-- 
+
 - Observations:  Some things are also other things:
   - Pianos are also dictionaries.
   - Bucatini is a donut and both are dumplings.
