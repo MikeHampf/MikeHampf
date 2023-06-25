@@ -4,7 +4,7 @@
   - I’m looking to collaborate on nothing at the moment.
     <img src="relative/..." width="100px" />
 
-<img src=https://drive.google.com/file/d/1BaiPPuIYEyAXLHoYKSpW5qkcAQmWNlN5/view?usp=drive_link/>
+https://drive.google.com/file/d/1BaiPPuIYEyAXLHoYKSpW5qkcAQmWNlN5/view?usp=drive_link
 
 - Observations:  Some things are also other things:
   - Pianos are also dictionaries.
