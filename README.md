@@ -3,7 +3,7 @@
 - I’m currently learning full stack development at Code Platoon.
 - I’m looking to collaborate on nothing at the moment.
 - 
-- 💞️ Observations:  Some things are also other things:
+- Observations:  Some things are also other things:
 -     💞️ Pianos are also dictionaries.
 -     💞️ Bucatini is a donut and both are dumplings.
 -     💞️ Pizza is an open-faced sandwich.
