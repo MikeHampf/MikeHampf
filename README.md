@@ -1,14 +1,13 @@
-- Hi, I’m @MikeHampf
+## Hi, I’m @MikeHampf
   - I’m interested in switching jobs and industries.
   - I’m currently learning full stack development at Code Platoon.
   - I’m not currently looking to collaborate on anything at the moment.
 
-Here's a link to view some of my microphone builds:
+## Here's a link to view some of my microphone builds:
 https://drive.google.com/file/d/1BaiPPuIYEyAXLHoYKSpW5qkcAQmWNlN5/view?usp=drive_link
 
-- Observations:  Some things are also other things:
-  - Pianos are also dictionaries.
-  - Bucatini is a donut and both are dumplings.
+## Observations:  
+  - Pianos are also dictionaries..
   - Pizza is an open-faced sandwich.
   - Morning cereal with milk is also soup.
      
