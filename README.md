@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1BaiPPuIYEyAXLHoYKSpW5qkcAQmWNlN5/view?usp=drive
   - Pizza is an open-faced sandwich.
   - Morning cereal with milk is also soup.
      
-- 📫 How to reach me ... more to come.
+## 📫 How to reach me ... more to come.
 
 <!---
 MikeHampf/MikeHampf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
